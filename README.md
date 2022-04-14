@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @C098
 - 👀 I’m interested in football, history
 - 🌱 I’m currently learning how to code using Javascript
-- 💞️ I’m looking to collaborate on coding program
+- 💞️ I’m looking to collaborate on tips to learn coding
 - 📫 How to reach me : 
 
 <!---
