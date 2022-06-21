@@ -5,7 +5,7 @@
 - 📫 How to reach me : 
 
 Languages and Tools:
-Ruby 
+postgresql  rails  rubybootstrap  scss  figma  git  heroku  html5  javascript cloudinary fontawesome mapbox 
 <!---
 C098/C098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
