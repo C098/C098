@@ -6,8 +6,6 @@
 
 Languages and Tools:
 
- bootstrap  css3  figma  git  heroku  html5  javascript  postgresql  rails  react  redis  ruby
-
 <!---
 C098/C098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
